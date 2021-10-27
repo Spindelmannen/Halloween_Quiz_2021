@@ -1,0 +1,51 @@
+body {
+    background-color: lightskyblue;
+}
+
+
+
+h1 {
+    margin-left: 40%;
+    color:darkorange;
+    font-style: oblique;
+    
+    
+}
+.question {
+    cursor: pointer;
+}
+
+#content {
+    margin-left: 40%;
+    
+}
+
+h4 {
+    margin-left: 40%;
+    color: darkorange;
+    font-style:oblique;
+}
+
+
+#theme {
+    color: darkorange;
+    border-radius: 2cm;
+    border-color:orange;
+    font-style:oblique;
+    background-color:black;
+    cursor:pointer;
+    margin-bottom: 5%;
+}
+.buttombuttons {
+    color: darkorange;
+    border-radius: 2cm;
+    border-color: orange;
+    font-style: oblique;
+    background-color:black;
+    cursor: pointer;
+    
+    
+}
+
+
+
